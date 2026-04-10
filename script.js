@@ -30,7 +30,7 @@ async function listZones() {
 }
 async function fetchPopularity() {
     try {
-        const response = await fetch("./zones.json");
+        const response = await fetch("zones.json");
         const data = await response.json();
         data.forEach(file => {
             const idMatch = file.name.match(/\/(\d+)\.html$/);
