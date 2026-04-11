@@ -8,7 +8,7 @@
   {
     "id":2,
     "name":"Ages of Conflict",
-    "cover":"{COVER_URL}/age-of-conflict.png",
+    "cover":"{COVER_URL}/ages-of-conflict.png",
     "url":"{HTML_URL}/Ages of Conflict.html"
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "id":9,
-    "name":"Bloxd",
-    "cover":"{COVER_URL}/bloxd.png",
-    "url":"{HTML_URL}/Bloxd.html"
+    "name":"Bloxorz",
+    "cover":"{COVER_URL}/bloxorz.png",
+    "url":"{HTML_URL}/Bloxorz.html"
   },
   {
     "id":10,
