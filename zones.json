@@ -117,13 +117,13 @@
     "id":20,
     "name":"Cut the Rope Holiday Gift",
     "cover":"{COVER_URL}/cut-the-rope-holiday.png",
-    "url":"{HTML_URL}/Cut the Rope Holiday Gift.html"
+    "url":"{HTML_URL}/Cut the Rope_Holiday Gift.html"
   },
   {
     "id":21,
     "name":"Cut the Rope Time Travel",
     "cover":"{COVER_URL}/cut-the-rope-time.png",
-    "url":"{HTML_URL}/Cut the Rope Time Travel.html"
+    "url":"{HTML_URL}/Cut the Rope_ Time Travel.html"
   },
   {
     "id":22,
@@ -153,7 +153,7 @@
     "id":26,
     "name":"Evolving Bombs 3D",
     "cover":"{COVER_URL}/evolving-bombs.png",
-    "url":"{HTML_URL}/Evolving Bombs 3D.html"
+    "url":"{HTML_URL}/Evolving Bombs 3D (1).html"
   },
   {
     "id":27,
