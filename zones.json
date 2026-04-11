@@ -1,6 +1,8 @@
 [
   {
+    "id": 1,
     "name": "Test Zone",
-    "description": "This confirms loading works"
+    "cover": "{COVER_URL}/test.png",
+    "url": "{HTML_URL}/1.html"
   }
 ]
