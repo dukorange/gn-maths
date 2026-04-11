@@ -4,9 +4,9 @@ let zoneFrame = document.getElementById('zoneFrame');
 const searchBar = document.getElementById('searchBar');
 const sortOptions = document.getElementById('sortOptions');
 // https://www.jsdelivr.com/tools/purge
-const zonesURL = "https://cdn.jsdelivr.net/gh/gn-math/assets@main/zones.json";
-const coverURL = "https://cdn.jsdelivr.net/gh/gn-math/covers@main";
-const htmlURL = "https://cdn.jsdelivr.net/gh/gn-math/html@main";
+const zonesURL = "zones.json";
+const coverURL = "covers";
+const htmlURL = "html";
 let zones = [];
 let popularityData = {};
 async function listZones() {
