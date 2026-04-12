@@ -286,5 +286,11 @@
     "name":"Play! JS",
     "cover":"{COVER_URL}/playjs.png",
     "url":"{HTML_URL}/Play.js.html"
+  },
+  {
+    "id":49,
+    "name":"Sonic CD",
+    "cover":"{COVER_URL}/sonic-cd.png",
+    "url":"{HTML_URL}/Sonic CD.html"
   }
 ]
