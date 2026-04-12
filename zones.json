@@ -269,4 +269,22 @@
     "cover":"{COVER_URL}/clover-pit.png",
     "url":"{HTML_URL}/Clover Pit.html"
   }
+  {
+    "id":46,
+    "name":"Emulator JS",
+    "cover":"{COVER_URL}/emulator-js.png",
+    "url":"{HTML_URL}/Emulator.JS.html"
+  },
+  {
+    "id":47,
+    "name":"Ruffle",
+    "cover":"{COVER_URL}/ruffle.png",
+    "url":"{HTML_URL}/Ruffle.html"
+  },
+  {
+    "id":48,
+    "name":"Play! JS",
+    "cover":"{COVER_URL}/playjs.png",
+    "url":"{HTML_URL}/Play.js.html"
+  }
 ]
