@@ -292,5 +292,11 @@
     "name":"Sonic CD",
     "cover":"{COVER_URL}/sonic-cd.png",
     "url":"{HTML_URL}/Sonic CD.html"
+  },
+  {
+    "id":50,
+    "name":"Angry Birds Chrome",
+    "cover":"{COVER_URL}/angry-birds-chrome.png",
+    "url":"{HTML_URL}/Angry Birds Chrome.html"
   }
 ]
