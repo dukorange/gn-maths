@@ -262,5 +262,11 @@
     "name":"Pong Wars",
     "cover":"{COVER_URL}/pong-wars.png",
     "url":"{HTML_URL}/pong wars.html"
+  },
+  {
+    "id":45,
+    "name":"Clover Pit",
+    "cover":"{COVER_URL}/clover-pit.png",
+    "url":"{HTML_URL}/Clover Pit.html"
   }
 ]
