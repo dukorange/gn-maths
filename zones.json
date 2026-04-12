@@ -307,7 +307,7 @@
   },
   {
     "id":52,
-    "name":"AntonBlast"
+    "name":"AntonBlast",
     "cover":"{COVER_URL}/antonblast.png",
     "url":"{HTML_URL}/Antonblast.html"
   }
