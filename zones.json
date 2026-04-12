@@ -298,5 +298,17 @@
     "name":"Angry Birds Chrome",
     "cover":"{COVER_URL}/angry-birds-chrome.png",
     "url":"{HTML_URL}/Angry Birds Chrome.html"
+  },
+  {
+    "id":51,
+    "name":"Five Nights At Epstien's",
+    "cover":"{COVER_URL}/five-nights.png",
+    "url":"{HTML_URL}/Five Nights at Epstein's.html"
+  },
+  {
+    "id":52,
+    "name":"AntonBlast"
+    "cover":"{COVER_URL}/antonblast.png",
+    "url":"{HTML_URL}/Antonblast.html"
   }
 ]
